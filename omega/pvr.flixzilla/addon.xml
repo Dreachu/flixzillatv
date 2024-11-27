@@ -19,13 +19,7 @@
     <assets>
       <icon>icon.png</icon>
     </assets>
-    <summary lang="en_AU">FlixzillaTV client.</summary>
-    <summary lang="en_GB">FlixzillaTV client.</summary>
-    <summary lang="en_NZ">FlixzillaTV client.</summary>
     <summary lang="en_US">FlixzillaTV client.</summary>
-    <description lang="en_AU">FlixzillaTV Client supports m3u playlists, streaming of Live TV for multicast/unicast sources, listening to Radio channels and EPG.</description>
-    <description lang="en_GB">FlixzillaTV Client supports m3u playlists, streaming of Live TV for multicast/unicast sources, listening to Radio channels and EPG.</description>
-    <description lang="en_NZ">FlixzillaTV Client supports m3u playlists, streaming of Live TV for multicast/unicast sources, listening to Radio channels and EPG.</description>
     <description lang="en_US">FlixzillaTV Client support m3u playlists, streaming of Live TV for multicast/unicast sources, listening to Radio channels and EPG.</description>
   </extension>
 </addon>
