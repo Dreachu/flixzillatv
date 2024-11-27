@@ -5,12 +5,12 @@
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
 		<dir minversion="20.0.0" maxversion="20.9.0">
-			<info compressed="false">https://raw.githubusercontent.com/Dreachu/repository.flixzilla/refs/heads/main/nexus/addons.xml</info>
-			<datadir zip="true">https://raw.githubusercontent.com/Dreachu/repository.flixzilla/refs/heads/main/nexus/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/Dreachu/repository.flixzilla/main/nexus/addons.xml</info>
+			<datadir zip="true">https://raw.githubusercontent.com/Dreachu/repository.flixzilla/main/nexus/</datadir>
 		</dir>
 		<dir minversion="20.9.1">
-			<info compressed="false">https://raw.githubusercontent.com/Dreachu/repository.flixzilla/refs/heads/main/omega/addons.xml</info>
-			<datadir zip="true">https://raw.githubusercontent.com/Dreachu/repository.flixzilla/refs/heads/main/omega/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/Dreachu/repository.flixzilla/main/omega/addons.xml</info>
+			<datadir zip="true">https://raw.githubusercontent.com/Dreachu/repository.flixzilla/main/omega/</datadir>
 		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
