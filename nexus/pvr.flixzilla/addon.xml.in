@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="pvr.flixzilla"
+  version="1.0"
+  name="FlixzillaTV  Client"
+  provider-name="Flixzilla">
+  <requires>@ADDON_DEPENDS@
+    <import addon="inputstream.ffmpegdirect" minversion="22.0.0"/>
+    <import addon="inputstream.adaptive" minversion="22.0.0"/>
+    <import addon="inputstream.rtmp" minversion="22.0.0"/>
+  </requires>
+  <extension
+    point="kodi.pvrclient"
+    library_@PLATFORM@="@LIBRARY_FILENAME@"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>@PLATFORM@</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://flixzilla.netlify.app</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="en_AU">FlixzillaTV client.</summary>
+    <summary lang="en_GB">FlixzillaTV client.</summary>
+    <summary lang="en_NZ">FlixzillaTV client.</summary>
+    <summary lang="en_US">FlixzillaTV client.</summary>
+    <description lang="en_AU">FlixzillaTV Client supports m3u playlists, streaming of Live TV for multicast/unicast sources, listening to Radio channels and EPG.</description>
+    <description lang="en_GB">FlixzillaTV Client supports m3u playlists, streaming of Live TV for multicast/unicast sources, listening to Radio channels and EPG.</description>
+    <description lang="en_NZ">FlixzillaTV Client supports m3u playlists, streaming of Live TV for multicast/unicast sources, listening to Radio channels and EPG.</description>
+    <description lang="en_US">FlixzillaTV Client support m3u playlists, streaming of Live TV for multicast/unicast sources, listening to Radio channels and EPG.</description>
+  </extension>
+</addon>
