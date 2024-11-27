@@ -5,14 +5,12 @@
 			<import addon="xbmc.addon" version="12.0.0"/>
 		</requires>
 		<dir minversion="20.0.0" maxversion="20.9.0">
-			<info compressed="false">https://raw.githubusercontent.com/AchillesPunks/repository.titan.bingie.mod/master/nexus/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/AchillesPunks/repository.titan.bingie.mod/master/nexus/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/AchillesPunks/repository.titan.bingie.mod/master/nexus/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/Dreachu/repository.flixzilla/refs/heads/main/nexus/addons.xml</info>
+			<datadir zip="true">https://raw.githubusercontent.com/Dreachu/repository.flixzilla/refs/heads/main/nexus/</datadir>
 		</dir>
 		<dir minversion="20.9.1">
-			<info compressed="false">https://raw.githubusercontent.com/AchillesPunks/repository.titan.bingie.mod/master/omega/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/AchillesPunks/repository.titan.bingie.mod/master/omega/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/AchillesPunks/repository.titan.bingie.mod/master/omega/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/Dreachu/repository.flixzilla/refs/heads/main/omega/addons.xml</info>
+			<datadir zip="true">https://raw.githubusercontent.com/Dreachu/repository.flixzilla/refs/heads/main/omega/</datadir>
 		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
